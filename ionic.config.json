@@ -1,0 +1,8 @@
+{
+  "name": "Gestor-de-reservas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "17c0548e"
+}
